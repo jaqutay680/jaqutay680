@@ -37,7 +37,7 @@
 
 ### 🎧 Escuchando Ahora
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Gamerep)  
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/TAYllefert10)  
 
 ---
 
