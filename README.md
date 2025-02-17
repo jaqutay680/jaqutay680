@@ -4,7 +4,7 @@
 💻 Estudiante de Desarrollo de Aplicaciones Web apasionado por la tecnología y el código limpio.  
 🔭 Actualmente trabajando en **proyectos de Lenguaje de Marcas**.  
 🌱 Aprendiendo sobre **JAVA SCRIPTS**.  
-💬 Pregúntame sobre **HTML,CSS,XML,PHP,SQL,JAVA**.  
+💬 Pregúntame sobre **HTML, CSS, XML,MARKDOWN , PHP, SQL, JAVA**.  
 📫 Contáctame en **jaqutay680@g.educaand.es**.  
 ⚡ Fun fact: **Me encanta aprender cosas nuevas**.  
 
