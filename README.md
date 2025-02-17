@@ -83,7 +83,7 @@
 
 ### 🎧 Escuchando Ahora
 
-![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=irm2mo7prmixqy4orshukt4ej&redirect=true)
+![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=irm2mo7prmixqy4orshukt4ej&cover_image=true&theme=karaoke&show_offline=true&background_color=121212&interchange=true)
 
 ---
 
