@@ -1,41 +1,44 @@
-# Proyecto Asombroso
+## 👋 ¡Hola! Soy José Ángel  
+### 🚀 Sobre mí
 
-![Logo del Proyecto](https://ruta/a/tu/logo.png)
+💻 Estudiante de Desarrollo de Aplicaciones Web apasionado por la tecnología y el código limpio.  
+🔭 Actualmente trabajando en **proyectos de Lenguaje de Marcas**.  
+🌱 Aprendiendo sobre **JAVA SCRIPTS**.  
+💬 Pregúntame sobre **HTML,CSS,XML,PHP,SQL,JAVA**.  
+📫 Contáctame en **jaqutay680@g.educaand.es**.  
+⚡ Fun fact: **Me encanta aprender cosas nuevas**.  
 
-## Descripción
+---
 
-¡Bienvenido a **Proyecto Asombroso**! Este proyecto es una solución innovadora para [breve descripción del objetivo del proyecto]. Con **Proyecto Asombroso**, puedes [explicar lo que hace tu proyecto y cómo ayuda a los usuarios].
+### 🛠 Tech Stack
 
-## Características
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![XML](https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-- 🚀 **Rápido**: Desarrollado para ser eficiente y ágil.
-- 🔒 **Seguro**: Usamos las mejores prácticas de seguridad.
-- 🌐 **Escalable**: Pensado para crecer junto con tus necesidades.
-- 💻 **Multiplataforma**: Funciona en [indicar plataformas soportadas].
+---
 
-## Instalación
+### 📊 GitHub Stats
 
-Sigue estos pasos para instalar el proyecto en tu máquina local:
+![TuUsuario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical)  
 
-1. Clona el repositorio:
-    ```bash
-    git clone https://github.com/tu_usuario/proyecto-asombroso.git
-    ```
+---
 
-2. Navega a la carpeta del proyecto:
-    ```bash
-    cd proyecto-asombroso
-    ```
+### 🚀 Proyectos Destacados
 
-3. Instala las dependencias:
-    ```bash
-    npm install  # o el gestor de dependencias correspondiente
-    ```
+🔹 [Proyecto 1](https://github.com/jaqutay680/Lenguaje-De-Marca) - Breve descripción del proyecto.  
+🔹 [Proyecto 2](https://github.com/TuUsuario/Proyecto2) - Breve descripción del proyecto.  
+🔹 [Proyecto 3](https://github.com/TuUsuario/Proyecto3) - Breve descripción del proyecto.  
 
-## Uso
+---
 
-Aquí hay algunos ejemplos de cómo usar el proyecto una vez que esté instalado:
+### 🎧 Escuchando Ahora
 
-```bash
-# Comando de ejemplo para ejecutar el proyecto
-npm start
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/TuUsuario)  
+
+---
+
+⭐ **¡No olvides seguirme y darme una estrella en mis repositorios!** ⭐
