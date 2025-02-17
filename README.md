@@ -83,7 +83,7 @@
 
 ### 🎧 Escuchando Ahora
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=TAYllefert10&cover_image=true&theme=novatorem)](https://open.spotify.com/user/TAYllefert10)
+![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=irm2mo7prmixqy4orshukt4ej&redirect=true)
 
 ---
 
