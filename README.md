@@ -34,7 +34,7 @@
 
 ### 🚀 Proyectos Destacados
 
-🔹 [Proyecto 1](https://github.com/jaqutay680/Lenguaje-De-Marca) - Breve descripción del proyecto.  
+🔹 [Lenguaje-De-Marca](https://github.com/jaqutay680/Lenguaje-De-Marca) - Breve descripción del proyecto.  
 🔹 [Proyecto 2](https://github.com/TuUsuario/Proyecto2) - Breve descripción del proyecto.  
 🔹 [Proyecto 3](https://github.com/TuUsuario/Proyecto3) - Breve descripción del proyecto.  
 
