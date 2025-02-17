@@ -83,7 +83,7 @@
 
 ### 🎧 Escuchando Ahora
 
-[![Spotify](https://spotify-now-playing-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/TAYllefert10)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=TAYllefert10&cover_image=true&theme=novatorem)](https://open.spotify.com/user/TAYllefert10)
 
 ---
 
