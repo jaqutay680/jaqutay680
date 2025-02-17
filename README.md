@@ -39,8 +39,7 @@
 
 <div align="center">
   ### 🎧 Escuchando Ahora
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=irm2mo7prmixqy4orshukt4ej&cover_image=true&theme=default&show_offline=false&background_color=ff0000&interchange=false&bar_color=ff8800&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=irm2mo7prmixqy4orshukt4ej&cover_image=true&theme=default&show_offline=false&background_color=ff0000&interchange=false&bar_color=ff8800&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
