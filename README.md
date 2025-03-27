@@ -41,7 +41,7 @@
   ### 🎧 Escuchando Ahora
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=irm2mo7prmixqy4orshukt4ej&cover_image=true&theme=default&show_offline=false&background_color=ff0000&interchange=true&bar_color=ff8800&bar_color_cover=false" />
+    <img src="[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31cxyci5owdqlhyt64blvdcn43om&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31cxyci5owdqlhyt64blvdcn43om&cover_image=true&theme=default&show_offline=true&background_color=3d3d3d&interchange=true&bar_color=b5b5b5&bar_color_cover=true)]]" />
   </a>
 </p>
 
