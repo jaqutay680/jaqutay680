@@ -40,8 +40,7 @@
 ---
   ### 🎧 Escuchando Ahora
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31cxyci5owdqlhyt64blvdcn43om&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31cxyci5owdqlhyt64blvdcn43om&cover_image=true&theme=default&show_offline=true&background_color=3d3d3d&interchange=true&bar_color=b5b5b5&bar_color_cover=true)]]" />
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31cxyci5owdqlhyt64blvdcn43om&cover_image=true&theme=default&show_offline=true&background_color=3d3d3d&interchange=true&bar_color=b5b5b5&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31cxyci5owdqlhyt64blvdcn43om&redirect=true)
   </a>
 </p>
 
