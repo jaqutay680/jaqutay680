@@ -34,7 +34,7 @@
 
 ### 🚀 Proyectos Destacados
 
-🔹 [Lenguaje-De-Marca](https://github.com/jaqutay680/Lenguaje-De-Marca) - Lenguaje de Marca 1er Trimestre.  
+🔹 [Lenguaje-De-Marca](https://github.com/jaqutay680/Lenguaje-De-Marca) - 1º DAW Lenguaje de Marca.  
 🔹 [Proyecto Bootstrap](https://jaqutay680.github.io/ProyectoBootstrap) - Proyecto Bootstrap  
 
 ---
